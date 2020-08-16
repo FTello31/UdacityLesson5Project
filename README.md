@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+# Example:
+[![CircleCI](https://circleci.com/gh/circleci/UdacityLesson5Project.svg?style=svg)](https://app.circleci.com/pipelines/github/NetliDev/UdacityLesson5Project)
+
 
 ## Project Overview
 
